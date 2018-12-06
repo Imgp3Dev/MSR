@@ -25,3 +25,4 @@ change*/
 input...%(Month)){
 check.Input(0);
 //Goes 1 to the right
+  writeln(Input );
